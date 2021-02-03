@@ -8,7 +8,7 @@ Se muestra la búsqueda para diferentes bucles:
 
 Para ejecutarlo simplemente hay que lanzar el comando, donde n es el número de procesadores queremos usar:
 
-mpirun -np n python MPI_numPrimes.py
+### mpirun -np n python MPI_numPrimes.py
 
 
 
