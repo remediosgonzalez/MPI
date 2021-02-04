@@ -12,7 +12,7 @@ Para ejecutarlo simplemente hay que lanzar el comando, donde n es el número de 
 
 
 
-###### Se aceptan donaciones
+## Se aceptan donaciones
 
 ###### Bitcoin (BTC)    1BaGPZnYTT227wNxw2biZhfzPRq1cq5eaK
 ###### Ethereum (ETH)   0x3ca1aeb969af98baa80b0a0ec5a4038f9bb7b481
