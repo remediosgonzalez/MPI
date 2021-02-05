@@ -49,7 +49,7 @@ def set_primos(inicio, fin, array_primos, rank, size):
         if i > 2:
             if es_primo(i,fin_,array_primos):
                 
-                array_primos=np.append(array_primos,i);
+                array_primos=np.append(array_primos,i)
     
     return array_primos
      
